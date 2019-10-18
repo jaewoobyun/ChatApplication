@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>88489185544-nftub6271pcfb6gjiq10qqp459a2ti0d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88489185544-nftub6271pcfb6gjiq10qqp459a2ti0d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUYNOjiQiIbncY0CB_m8CgS28wWI6hG4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88489185544</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jaewoobyun.ChatApplication</string>
+	<key>PROJECT_ID</key>
+	<string>practice-26cea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>practice-26cea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88489185544:ios:dd68d9d009baea50</string>
+	<key>DATABASE_URL</key>
+	<string>https://practice-26cea.firebaseio.com</string>
+</dict>
+</plist>
